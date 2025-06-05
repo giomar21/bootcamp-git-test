@@ -11,6 +11,9 @@ button {
   font-size: 1.2rem;
 }
 
+/* 
+Configura el diseño del display
+*/
 #display {
   background-color: #bbc6d1; 
   color: #ffffff;    
