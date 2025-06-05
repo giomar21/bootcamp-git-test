@@ -12,6 +12,7 @@ function deleteLast() {
   display.value = display.value.slice(0, -1);
 }
 
+// Función que realiza el cálculo
 function calculate() {
   const display = document.getElementById('display');
   try {
